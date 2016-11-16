@@ -1,0 +1,28 @@
+Test losowych instancji
+ liczba grafów: 8
+ liczba iteracji: 100
+Graf   4-wierzchołkowy 
+ wykonano średnio w czasie 0,0903166 ms
+Graf   8-wierzchołkowy
+ wykonano średnio w czasie 0,876973 ms
+Graf  12-wierzchołkowy
+ wykonano średnio w czasie 3,44326 ms
+Graf  16-wierzchołkowy
+ wykonano średnio w czasie 11,6094 ms
+Graf  20-wierzchołkowy
+ wykonano średnio w czasie 69,3981 ms
+Graf  24-wierzchołkowy
+ wykonano średnio w czasie 141,267 ms
+Graf  28-wierzchołkowy
+ wykonano średnio w czasie 218,997 ms
+Graf  32-wierzchołkowy
+ wykonano średnio w czasie 714,676 ms
+
+
+ Brute Force
+ Czas wykonania dla:
+  2 wierzchołków: 0.00656878 ms
+  4 wierzchołków: 0.123986 ms
+  6 wierzchołków: 3.27371 ms
+  8 wierzchołków: 342.769 ms
+ 10 wierzchołków: 50741.1 ms

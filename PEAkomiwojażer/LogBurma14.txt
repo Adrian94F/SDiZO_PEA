@@ -1,0 +1,207 @@
+Populacja: 10
+--------------------------------
+Krzyż,:  20% - Mut,:   0% koszt: 54,43 błąd:  81,43% czas:   0,87 ms
+Krzyż,:  20% - Mut,:   5% koszt: 37,59 błąd:  25,31% czas:   3,52 ms
+Krzyż,:  20% - Mut,:  10% koszt: 34,78 błąd:  15,95% czas:   3,38 ms
+Krzyż,:  20% - Mut,:  15% koszt: 32,22 błąd:   7,40% czas:   3,47 ms
+Krzyż,:  20% - Mut,:  20% koszt: 32,32 błąd:   7,74% czas:   3,03 ms
+Krzyż,:  20% - Mut,:  25% koszt: 31,21 błąd:   4,03% czas:   2,77 ms
+Krzyż,:  20% - Mut,:  30% koszt: 31,21 błąd:   4,04% czas:   4,59 ms
+Krzyż,:  20% - Mut,:  35% koszt: 31,97 błąd:   6,56% czas:   4,44 ms
+Krzyż,:  20% - Mut,:  40% koszt: 31,78 błąd:   5,93% czas:   3,41 ms
+Krzyż,:  20% - Mut,:  45% koszt: 32,06 błąd:   6,88% czas:   2,79 ms
+Krzyż,:  20% - Mut,:  50% koszt: 31,46 błąd:   4,88% czas:   2,44 ms
+
+Krzyż,:  40% - Mut,:   0% koszt: 55,00 błąd:  83,34% czas:   0,88 ms
+Krzyż,:  40% - Mut,:   5% koszt: 35,86 błąd:  19,55% czas:   3,96 ms
+Krzyż,:  40% - Mut,:  10% koszt: 38,37 błąd:  27,90% czas:   2,95 ms
+Krzyż,:  40% - Mut,:  15% koszt: 33,47 błąd:  11,56% czas:   2,97 ms
+Krzyż,:  40% - Mut,:  20% koszt: 33,59 błąd:  11,98% czas:   2,95 ms
+Krzyż,:  40% - Mut,:  25% koszt: 32,39 błąd:   7,98% czas:   2,69 ms
+Krzyż,:  40% - Mut,:  30% koszt: 33,87 błąd:  12,92% czas:   2,23 ms
+Krzyż,:  40% - Mut,:  35% koszt: 31,73 błąd:   5,78% czas:   2,56 ms
+Krzyż,:  40% - Mut,:  40% koszt: 32,16 błąd:   7,20% czas:   2,38 ms
+Krzyż,:  40% - Mut,:  45% koszt: 30,97 błąd:   3,24% czas:   2,50 ms
+Krzyż,:  40% - Mut,:  50% koszt: 32,45 błąd:   8,16% czas:   1,75 ms
+
+Krzyż,:  60% - Mut,:   0% koszt: 53,12 błąd:  77,05% czas:   0,98 ms
+Krzyż,:  60% - Mut,:   5% koszt: 37,33 błąd:  24,44% czas:   1,97 ms
+Krzyż,:  60% - Mut,:  10% koszt: 36,62 błąd:  22,06% czas:   3,01 ms
+Krzyż,:  60% - Mut,:  15% koszt: 31,40 błąd:   4,65% czas:   5,40 ms
+Krzyż,:  60% - Mut,:  20% koszt: 31,45 błąd:   4,83% czas:   2,35 ms
+Krzyż,:  60% - Mut,:  25% koszt: 31,23 błąd:   4,09% czas:   2,70 ms
+Krzyż,:  60% - Mut,:  30% koszt: 31,89 błąd:   6,29% czas:   2,97 ms
+Krzyż,:  60% - Mut,:  35% koszt: 32,18 błąd:   7,28% czas:   3,55 ms
+Krzyż,:  60% - Mut,:  40% koszt: 32,18 błąd:   7,26% czas:   2,07 ms
+Krzyż,:  60% - Mut,:  45% koszt: 32,07 błąd:   6,89% czas:   2,51 ms
+Krzyż,:  60% - Mut,:  50% koszt: 30,88 błąd:   2,93% czas:   2,52 ms
+
+Krzyż,:  80% - Mut,:   0% koszt: 48,69 błąd:  62,31% czas:   0,95 ms
+Krzyż,:  80% - Mut,:   5% koszt: 37,76 błąd:  25,86% czas:   1,81 ms
+Krzyż,:  80% - Mut,:  10% koszt: 37,70 błąd:  25,67% czas:   3,17 ms
+Krzyż,:  80% - Mut,:  15% koszt: 34,11 błąd:  13,70% czas:   2,08 ms
+Krzyż,:  80% - Mut,:  20% koszt: 31,46 błąd:   4,85% czas:   2,15 ms
+Krzyż,:  80% - Mut,:  25% koszt: 31,61 błąd:   5,35% czas:   2,26 ms
+Krzyż,:  80% - Mut,:  30% koszt: 34,32 błąd:  14,39% czas:   1,38 ms
+Krzyż,:  80% - Mut,:  35% koszt: 32,16 błąd:   7,20% czas:   1,97 ms
+Krzyż,:  80% - Mut,:  40% koszt: 32,06 błąd:   6,88% czas:   2,10 ms
+Krzyż,:  80% - Mut,:  45% koszt: 32,08 błąd:   6,93% czas:   2,57 ms
+Krzyż,:  80% - Mut,:  50% koszt: 31,21 błąd:   4,03% czas:   4,36 ms
+
+*** Best: 30,88
+
+Populacja: 100
+--------------------------------
+Krzyż,:  20% - Mut,:   0% koszt: 39,88 błąd:  32,94% czas:   3,24 ms
+Krzyż,:  20% - Mut,:   5% koszt: 36,21 błąd:  20,69% czas:   6,01 ms
+Krzyż,:  20% - Mut,:  10% koszt: 40,32 błąd:  34,41% czas:   2,93 ms
+Krzyż,:  20% - Mut,:  15% koszt: 37,29 błąd:  24,29% czas:   3,51 ms
+Krzyż,:  20% - Mut,:  20% koszt: 37,73 błąd:  25,77% czas:   3,47 ms
+Krzyż,:  20% - Mut,:  25% koszt: 36,44 błąd:  21,48% czas:   3,28 ms
+Krzyż,:  20% - Mut,:  30% koszt: 35,35 błąd:  17,84% czas:   2,79 ms
+Krzyż,:  20% - Mut,:  35% koszt: 37,64 błąd:  25,48% czas:   3,47 ms
+Krzyż,:  20% - Mut,:  40% koszt: 33,24 błąd:  10,79% czas:   5,13 ms
+Krzyż,:  20% - Mut,:  45% koszt: 34,55 błąd:  15,16% czas:   4,32 ms
+Krzyż,:  20% - Mut,:  50% koszt: 37,10 błąd:  23,67% czas:   4,93 ms
+
+Krzyż,:  40% - Mut,:   0% koszt: 42,53 błąd:  41,76% czas:   2,57 ms
+Krzyż,:  40% - Mut,:   5% koszt: 32,99 błąd:   9,96% czas:   5,93 ms
+Krzyż,:  40% - Mut,:  10% koszt: 38,06 błąd:  26,87% czas:   3,19 ms
+Krzyż,:  40% - Mut,:  15% koszt: 35,77 błąd:  19,24% czas:   5,13 ms
+Krzyż,:  40% - Mut,:  20% koszt: 34,60 błąd:  15,35% czas:   5,63 ms
+Krzyż,:  40% - Mut,:  25% koszt: 39,20 błąd:  30,67% czas:   3,77 ms
+Krzyż,:  40% - Mut,:  30% koszt: 34,52 błąd:  15,07% czas:   5,32 ms
+Krzyż,:  40% - Mut,:  35% koszt: 32,37 błąd:   7,91% czas:   8,66 ms
+Krzyż,:  40% - Mut,:  40% koszt: 36,21 błąd:  20,69% czas:   5,75 ms
+Krzyż,:  40% - Mut,:  45% koszt: 35,87 błąd:  19,58% czas:   4,37 ms
+Krzyż,:  40% - Mut,:  50% koszt: 31,50 błąd:   5,00% czas:   9,92 ms
+
+Krzyż,:  60% - Mut,:   0% koszt: 33,83 błąd:  12,76% czas:   7,14 ms
+Krzyż,:  60% - Mut,:   5% koszt: 37,51 błąd:  25,03% czas:   2,41 ms
+Krzyż,:  60% - Mut,:  10% koszt: 32,71 błąd:   9,03% czas:   8,51 ms
+Krzyż,:  60% - Mut,:  15% koszt: 38,99 błąd:  29,95% czas:   3,05 ms
+Krzyż,:  60% - Mut,:  20% koszt: 35,29 błąd:  17,62% czas:   3,95 ms
+Krzyż,:  60% - Mut,:  25% koszt: 36,20 błąd:  20,67% czas:   4,07 ms
+Krzyż,:  60% - Mut,:  30% koszt: 33,06 błąd:  10,19% czas:   2,40 ms
+Krzyż,:  60% - Mut,:  35% koszt: 38,07 błąd:  26,90% czas:   4,13 ms
+Krzyż,:  60% - Mut,:  40% koszt: 41,64 błąd:  38,80% czas:   2,10 ms
+Krzyż,:  60% - Mut,:  45% koszt: 34,30 błąd:  14,34% czas:   6,10 ms
+Krzyż,:  60% - Mut,:  50% koszt: 34,60 błąd:  15,32% czas:   5,38 ms
+
+Krzyż,:  80% - Mut,:   0% koszt: 33,49 błąd:  11,64% czas:   6,68 ms
+Krzyż,:  80% - Mut,:   5% koszt: 33,97 błąd:  13,22% czas:  10,92 ms
+Krzyż,:  80% - Mut,:  10% koszt: 31,86 błąd:   6,21% czas:   9,61 ms
+Krzyż,:  80% - Mut,:  15% koszt: 32,81 błąd:   9,36% czas:   7,83 ms
+Krzyż,:  80% - Mut,:  20% koszt: 32,47 błąd:   8,23% czas:   8,81 ms
+Krzyż,:  80% - Mut,:  25% koszt: 31,51 błąd:   5,04% czas:  11,52 ms
+Krzyż,:  80% - Mut,:  30% koszt: 32,53 błąd:   8,44% czas:   6,53 ms
+Krzyż,:  80% - Mut,:  35% koszt: 35,77 błąd:  19,22% czas:   4,88 ms
+Krzyż,:  80% - Mut,:  40% koszt: 34,87 błąd:  16,22% czas:   5,42 ms
+Krzyż,:  80% - Mut,:  45% koszt: 32,23 błąd:   7,43% czas:  11,75 ms
+Krzyż,:  80% - Mut,:  50% koszt: 35,67 błąd:  18,89% czas:   3,88 ms
+
+*** Best: 30,88
+
+Populacja: 1000
+--------------------------------
+Krzyż,:  20% - Mut,:   0% koszt: 38,36 błąd:  27,85% czas:  74,28 ms
+Krzyż,:  20% - Mut,:   5% koszt: 41,25 błąd:  37,49% czas:  33,39 ms
+Krzyż,:  20% - Mut,:  10% koszt: 35,67 błąd:  18,89% czas:  83,31 ms
+Krzyż,:  20% - Mut,:  15% koszt: 39,67 błąd:  32,24% czas:  25,88 ms
+Krzyż,:  20% - Mut,:  20% koszt: 38,84 błąd:  29,46% czas:  38,99 ms
+Krzyż,:  20% - Mut,:  25% koszt: 38,77 błąd:  29,22% czas:  43,55 ms
+Krzyż,:  20% - Mut,:  30% koszt: 42,94 błąd:  43,12% czas:  25,45 ms
+Krzyż,:  20% - Mut,:  35% koszt: 37,41 błąd:  24,70% czas:  71,73 ms
+Krzyż,:  20% - Mut,:  40% koszt: 38,90 błąd:  29,68% czas:  61,66 ms
+Krzyż,:  20% - Mut,:  45% koszt: 39,79 błąd:  32,64% czas:  40,74 ms
+Krzyż,:  20% - Mut,:  50% koszt: 36,49 błąd:  21,64% czas:  65,14 ms
+
+Krzyż,:  40% - Mut,:   0% koszt: 38,98 błąd:  29,92% czas:  39,87 ms
+Krzyż,:  40% - Mut,:   5% koszt: 40,11 błąd:  33,72% czas:  30,11 ms
+Krzyż,:  40% - Mut,:  10% koszt: 38,63 błąd:  28,76% czas:  49,79 ms
+Krzyż,:  40% - Mut,:  15% koszt: 38,50 błąd:  28,35% czas:  74,56 ms
+Krzyż,:  40% - Mut,:  20% koszt: 39,39 błąd:  31,29% czas:  38,86 ms
+Krzyż,:  40% - Mut,:  25% koszt: 40,60 błąd:  35,34% czas:  26,44 ms
+Krzyż,:  40% - Mut,:  30% koszt: 35,37 błąd:  17,91% czas:  68,76 ms
+Krzyż,:  40% - Mut,:  35% koszt: 36,72 błąd:  22,41% czas:  30,82 ms
+Krzyż,:  40% - Mut,:  40% koszt: 36,72 błąd:  22,41% czas:  34,57 ms
+Krzyż,:  40% - Mut,:  45% koszt: 39,72 błąd:  32,39% czas:  27,59 ms
+Krzyż,:  40% - Mut,:  50% koszt: 36,02 błąd:  20,07% czas:  79,88 ms
+
+Krzyż,:  60% - Mut,:   0% koszt: 40,92 błąd:  36,39% czas:  36,03 ms
+Krzyż,:  60% - Mut,:   5% koszt: 34,76 błąd:  15,87% czas: 151,06 ms
+Krzyż,:  60% - Mut,:  10% koszt: 39,12 błąd:  30,39% czas:  60,51 ms
+Krzyż,:  60% - Mut,:  15% koszt: 39,06 błąd:  30,21% czas:  35,30 ms
+Krzyż,:  60% - Mut,:  20% koszt: 40,22 błąd:  34,05% czas:  35,02 ms
+Krzyż,:  60% - Mut,:  25% koszt: 38,52 błąd:  28,41% czas:  50,82 ms
+Krzyż,:  60% - Mut,:  30% koszt: 37,56 błąd:  25,20% czas:  84,10 ms
+Krzyż,:  60% - Mut,:  35% koszt: 37,49 błąd:  24,95% czas:  96,03 ms
+Krzyż,:  60% - Mut,:  40% koszt: 39,35 błąd:  31,18% czas:  42,70 ms
+Krzyż,:  60% - Mut,:  45% koszt: 37,43 błąd:  24,77% czas:  46,92 ms
+Krzyż,:  60% - Mut,:  50% koszt: 36,26 błąd:  20,86% czas:  80,53 ms
+
+Krzyż,:  80% - Mut,:   0% koszt: 37,66 błąd:  25,55% czas:  72,93 ms
+Krzyż,:  80% - Mut,:   5% koszt: 35,44 błąd:  18,14% czas:  75,27 ms
+Krzyż,:  80% - Mut,:  10% koszt: 39,68 błąd:  32,26% czas:  39,23 ms
+Krzyż,:  80% - Mut,:  15% koszt: 37,81 błąd:  26,04% czas:  29,62 ms
+Krzyż,:  80% - Mut,:  20% koszt: 39,73 błąd:  32,43% czas:  27,85 ms
+Krzyż,:  80% - Mut,:  25% koszt: 36,31 błąd:  21,02% czas:  71,20 ms
+Krzyż,:  80% - Mut,:  30% koszt: 37,12 błąd:  23,75% czas:  85,04 ms
+Krzyż,:  80% - Mut,:  35% koszt: 36,29 błąd:  20,95% czas:  74,57 ms
+Krzyż,:  80% - Mut,:  40% koszt: 35,55 błąd:  18,50% czas:  61,31 ms
+Krzyż,:  80% - Mut,:  45% koszt: 37,83 błąd:  26,10% czas:  49,12 ms
+Krzyż,:  80% - Mut,:  50% koszt: 40,10 błąd:  33,66% czas:  26,92 ms
+
+*** Best: 30,88
+
+Populacja: 10000
+--------------------------------
+Krzyż,:  20% - Mut,:   0% koszt: 36,84 błąd:  22,79% czas: 2977,73 ms
+Krzyż,:  20% - Mut,:   5% koszt: 36,56 błąd:  21,85% czas: 3929,76 ms
+Krzyż,:  20% - Mut,:  10% koszt: 36,39 błąd:  21,31% czas: 4353,16 ms
+Krzyż,:  20% - Mut,:  15% koszt: 36,37 błąd:  21,25% czas: 3839,72 ms
+Krzyż,:  20% - Mut,:  20% koszt: 35,07 błąd:  16,91% czas: 6162,63 ms
+Krzyż,:  20% - Mut,:  25% koszt: 36,06 błąd:  20,21% czas: 2829,77 ms
+Krzyż,:  20% - Mut,:  30% koszt: 37,21 błąd:  24,05% czas: 3848,12 ms
+Krzyż,:  20% - Mut,:  35% koszt: 36,12 błąd:  20,41% czas: 5260,20 ms
+Krzyż,:  20% - Mut,:  40% koszt: 35,22 błąd:  17,41% czas: 6593,20 ms
+Krzyż,:  20% - Mut,:  45% koszt: 35,75 błąd:  19,17% czas: 5601,61 ms
+Krzyż,:  20% - Mut,:  50% koszt: 35,50 błąd:  18,33% czas: 4106,79 ms
+
+Krzyż,:  40% - Mut,:   0% koszt: 36,09 błąd:  20,31% czas: 3796,00 ms
+Krzyż,:  40% - Mut,:   5% koszt: 34,71 błąd:  15,70% czas: 6303,85 ms
+Krzyż,:  40% - Mut,:  10% koszt: 36,18 błąd:  20,58% czas: 3870,35 ms
+Krzyż,:  40% - Mut,:  15% koszt: 34,90 błąd:  16,32% czas: 6725,29 ms
+Krzyż,:  40% - Mut,:  20% koszt: 35,67 błąd:  18,90% czas: 5367,36 ms
+Krzyż,:  40% - Mut,:  25% koszt: 35,68 błąd:  18,93% czas: 3846,19 ms
+Krzyż,:  40% - Mut,:  30% koszt: 35,42 błąd:  18,07% czas: 5916,75 ms
+Krzyż,:  40% - Mut,:  35% koszt: 35,69 błąd:  18,97% czas: 4470,84 ms
+Krzyż,:  40% - Mut,:  40% koszt: 36,11 błąd:  20,38% czas: 4209,58 ms
+Krzyż,:  40% - Mut,:  45% koszt: 35,33 błąd:  17,76% czas: 4803,51 ms
+Krzyż,:  40% - Mut,:  50% koszt: 35,72 błąd:  19,08% czas: 4266,83 ms
+
+Krzyż,:  60% - Mut,:   0% koszt: 35,64 błąd:  18,80% czas: 5204,97 ms
+Krzyż,:  60% - Mut,:   5% koszt: 35,20 błąd:  17,35% czas: 4937,52 ms
+Krzyż,:  60% - Mut,:  10% koszt: 36,04 błąd:  20,14% czas: 4012,55 ms
+Krzyż,:  60% - Mut,:  15% koszt: 35,76 błąd:  19,19% czas: 4919,32 ms
+Krzyż,:  60% - Mut,:  20% koszt: 34,93 błąd:  16,45% czas: 4957,43 ms
+Krzyż,:  60% - Mut,:  25% koszt: 34,50 błąd:  14,98% czas: 5479,24 ms
+Krzyż,:  60% - Mut,:  30% koszt: 35,35 błąd:  17,85% czas: 4478,24 ms
+Krzyż,:  60% - Mut,:  35% koszt: 35,67 błąd:  18,88% czas: 4276,70 ms
+Krzyż,:  60% - Mut,:  40% koszt: 34,59 błąd:  15,30% czas: 5966,88 ms
+Krzyż,:  60% - Mut,:  45% koszt: 34,73 błąd:  15,78% czas: 7385,73 ms
+Krzyż,:  60% - Mut,:  50% koszt: 35,18 błąd:  17,26% czas: 3918,10 ms
+
+Krzyż,:  80% - Mut,:   0% koszt: 34,31 błąd:  14,36% czas: 6736,65 ms
+Krzyż,:  80% - Mut,:   5% koszt: 35,72 błąd:  19,08% czas: 4242,65 ms
+Krzyż,:  80% - Mut,:  10% koszt: 35,30 błąd:  17,67% czas: 5801,32 ms
+Krzyż,:  80% - Mut,:  15% koszt: 34,40 błąd:  14,66% czas: 7322,59 ms
+Krzyż,:  80% - Mut,:  20% koszt: 35,29 błąd:  17,64% czas: 5980,27 ms
+Krzyż,:  80% - Mut,:  25% koszt: 35,90 błąd:  19,67% czas: 4567,07 ms
+Krzyż,:  80% - Mut,:  30% koszt: 34,85 błąd:  16,16% czas: 6057,81 ms
+Krzyż,:  80% - Mut,:  35% koszt: 35,20 błąd:  17,34% czas: 4787,54 ms
+Krzyż,:  80% - Mut,:  40% koszt: 35,05 błąd:  16,82% czas: 4846,35 ms
+Krzyż,:  80% - Mut,:  45% koszt: 35,01 błąd:  16,70% czas: 4997,86 ms
+Krzyż,:  80% - Mut,:  50% koszt: 35,51 błąd:  18,36% czas: 4676,25 ms
+
+*** Best: 30,88
