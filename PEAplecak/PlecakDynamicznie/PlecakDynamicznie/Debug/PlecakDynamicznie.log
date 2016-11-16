@@ -1,0 +1,4 @@
+﻿  plecak.cpp
+d:\uczelnia\sem v\pea\lab2\plecakdynamicznie\plecakdynamicznie\plecak.cpp(16): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+d:\uczelnia\sem v\pea\lab2\plecakdynamicznie\plecakdynamicznie\plecak.cpp(117): warning C4018: '<': signed/unsigned mismatch
+  PlecakDynamicznie.vcxproj -> D:\uczelnia\Sem V\PEA\Lab2\PlecakDynamicznie\Debug\PlecakDynamicznie.exe

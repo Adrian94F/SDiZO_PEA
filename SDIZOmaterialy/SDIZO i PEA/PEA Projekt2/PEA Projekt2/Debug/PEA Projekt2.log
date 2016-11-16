@@ -1,0 +1,25 @@
+﻿Build started 2014-01-17 10:51:42.
+     1>Project "E:\Moje programy\C++\SDIZO i PEA\PEA Projekt2\PEA Projekt2\PEA Projekt2.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\PEA Projekt2.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         E:\programy\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+       Link:
+         E:\programy\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Moje programy\C++\SDIZO i PEA\PEA Projekt2\Debug\PEA Projekt2.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\PEA Projekt2.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\Moje programy\C++\SDIZO i PEA\PEA Projekt2\Debug\PEA Projekt2.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Moje programy\C++\SDIZO i PEA\PEA Projekt2\Debug\PEA Projekt2.lib" /MACHINE:X86 Debug\main.obj
+         Debug\sasiad.obj
+         Debug\tabu.obj
+         Debug\wyzarzanie.obj
+         Debug\zadanie.obj
+         LINK : E:\Moje programy\C++\SDIZO i PEA\PEA Projekt2\Debug\PEA Projekt2.exe not found or not built by the last incremental link; performing full link
+         PEA Projekt2.vcxproj -> E:\Moje programy\C++\SDIZO i PEA\PEA Projekt2\Debug\PEA Projekt2.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"E:\Moje programy\C++\SDIZO i PEA\PEA Projekt2\Debug\PEA Projekt2.exe;#1" /manifest "Debug\PEA Projekt2.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         Deleting file "Debug\PEA Projekt2.unsuccessfulbuild".
+         Touching "Debug\PEA Projekt2.lastbuildstate".
+     1>Done Building Project "E:\Moje programy\C++\SDIZO i PEA\PEA Projekt2\PEA Projekt2\PEA Projekt2.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.07

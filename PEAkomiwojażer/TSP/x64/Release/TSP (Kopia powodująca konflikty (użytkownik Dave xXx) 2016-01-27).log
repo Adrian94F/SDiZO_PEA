@@ -1,0 +1,24 @@
+﻿  BnbMatrix.cpp
+  GLdisplay.cpp
+GLdisplay.cpp(7): warning C4305: 'initializing': truncation from 'double' to 'float'
+GLdisplay.cpp(144): warning C4305: 'argument': truncation from 'double' to 'float'
+GLdisplay.cpp(147): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+GLdisplay.cpp(148): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+GLdisplay.cpp(168): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Item.cpp
+  Komiwojazer.cpp
+Komiwojazer.cpp(381): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+Komiwojazer.cpp(499): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+Komiwojazer.cpp(505): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  MatrixGraph.cpp
+  MyTimer.cpp
+MyTimer.cpp(5): warning C4244: 'initializing': conversion from 'DWORD_PTR' to 'DWORD', possible loss of data
+MyTimer.cpp(16): warning C4244: '=': conversion from 'LONGLONG' to 'long double', possible loss of data
+MyTimer.cpp(17): warning C4244: '=': conversion from 'LONGLONG' to 'long double', possible loss of data
+  Source.cpp
+Source.cpp(101): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+Source.cpp(386): warning C4244: '=': conversion from 'long double' to 'float', possible loss of data
+  Generating code
+  All 2054 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  TSP.vcxproj -> C:\Users\graco\Dropbox\TSP\x64\Release\TSP.exe

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="PEAprojWyrzazanie">
+</Property><Property Name="Solution File" Value="C:\Users\Robert\Desktop\PEAprojWyrzazanie\PEAprojWyrzazanie.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Robert\Desktop\PEAprojWyrzazanie\PEAprojWyrzazanie.suo">
+</Property><Property Name="Date" Value="21 listopada 2013">
+</Property><Property Name="Time" Value="07:48">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="PEAprojWyrzazanie.sln" Description="File successfully backed up as C:\Users\Robert\Desktop\PEAprojWyrzazanie\PEAprojWyrzazanie.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="PEAprojWyrzazanie.suo" Description="File successfully backed up as C:\Users\Robert\Desktop\PEAprojWyrzazanie\PEAprojWyrzazanie.suo.old">
+</Event><Event ErrorLevel="0" Project="PEAprojWyrzazanie" Source="PEAprojWyrzazanie\PEAprojWyrzazanie.vcproj" Description="Converting project file 'C:\Users\Robert\Desktop\PEAprojWyrzazanie\PEAprojWyrzazanie\PEAprojWyrzazanie.vcproj'.">
+</Event><Event ErrorLevel="1" Project="PEAprojWyrzazanie" Source="PEAprojWyrzazanie\PEAprojWyrzazanie.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="PEAprojWyrzazanie" Source="PEAprojWyrzazanie\PEAprojWyrzazanie.vcproj" Description="Done converting to new project file 'C:\Users\Robert\Desktop\PEAprojWyrzazanie\PEAprojWyrzazanie\PEAprojWyrzazanie.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="PEAprojWyrzazanie" Source="PEAprojWyrzazanie\PEAprojWyrzazanie.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="PEAprojWyrzazanie.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="PEAprojWyrzazanie.sln" Description="Converted">
+</Event></UpgradeLog>

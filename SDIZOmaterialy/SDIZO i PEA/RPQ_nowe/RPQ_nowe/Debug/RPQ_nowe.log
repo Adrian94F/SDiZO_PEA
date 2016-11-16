@@ -1,0 +1,29 @@
+﻿Build started 2014-01-26 17:56:46.
+     1>Project "E:\Moje programy\C++\SDIZO i PEA\RPQ_nowe\RPQ_nowe\RPQ_nowe.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\RPQ_nowe.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         E:\programy\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\RPQ_nowe.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt RPQ_nowe.cpp
+         RPQ_nowe.cpp
+     1>e:\moje programy\c++\sdizo i pea\rpq_nowe\rpq_nowe\rpq_nowe.cpp(104): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         E:\programy\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Moje programy\C++\SDIZO i PEA\RPQ_nowe\Debug\RPQ_nowe.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\RPQ_nowe.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\Moje programy\C++\SDIZO i PEA\RPQ_nowe\Debug\RPQ_nowe.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Moje programy\C++\SDIZO i PEA\RPQ_nowe\Debug\RPQ_nowe.lib" /MACHINE:X86 Debug\RPQ_nowe.exe.embed.manifest.res
+         Debug\RPQ_nowe.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\RPQ_nowe.exe.embed.manifest" /manifest Debug\RPQ_nowe.exe.intermediate.manifest
+         All outputs are up-to-date.
+       LinkEmbedManifest:
+         All outputs are up-to-date.
+         RPQ_nowe.vcxproj -> E:\Moje programy\C++\SDIZO i PEA\RPQ_nowe\Debug\RPQ_nowe.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\RPQ_nowe.unsuccessfulbuild".
+         Touching "Debug\RPQ_nowe.lastbuildstate".
+     1>Done Building Project "E:\Moje programy\C++\SDIZO i PEA\RPQ_nowe\RPQ_nowe\RPQ_nowe.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.43

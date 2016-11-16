@@ -1,0 +1,15 @@
+﻿  MyTimer.cpp
+MyTimer.cpp(16): warning C4244: '=': conversion from 'LONGLONG' to 'long double', possible loss of data
+MyTimer.cpp(17): warning C4244: '=': conversion from 'LONGLONG' to 'long double', possible loss of data
+  plecak.cpp
+plecak.cpp(174): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+plecak.cpp(144): warning C4101: 'score': unreferenced local variable
+  Source.cpp
+Source.cpp(43): warning C4018: '<': signed/unsigned mismatch
+Source.cpp(92): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  836 of 844 functions (99.1%) were compiled, the rest were copied from previous compilation.
+    4 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  PlecakDynamicznie.vcxproj -> E:\Dropbox\PEA\PlecakDynamicznie\Release\PlecakDynamicznie.exe

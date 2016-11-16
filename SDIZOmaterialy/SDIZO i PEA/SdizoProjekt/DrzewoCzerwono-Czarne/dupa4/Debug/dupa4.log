@@ -1,0 +1,28 @@
+﻿Build started 2013-04-18 16:12:21.
+     1>Project "E:\Moje programy\C++\Programowanie Obiektowe\dupa4\dupa4\dupa4.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\dupa4.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         E:\programy\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\dupa4.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt dupa4.cpp
+         dupa4.cpp
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         E:\programy\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Moje programy\C++\Programowanie Obiektowe\dupa4\Debug\dupa4.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\dupa4.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\Moje programy\C++\Programowanie Obiektowe\dupa4\Debug\dupa4.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Moje programy\C++\Programowanie Obiektowe\dupa4\Debug\dupa4.lib" /MACHINE:X86 Debug\dupa4.exe.embed.manifest.res
+         Debug\dupa4.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\dupa4.exe.embed.manifest" /manifest Debug\dupa4.exe.intermediate.manifest
+         All outputs are up-to-date.
+       LinkEmbedManifest:
+         All outputs are up-to-date.
+         dupa4.vcxproj -> E:\Moje programy\C++\Programowanie Obiektowe\dupa4\Debug\dupa4.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\dupa4.unsuccessfulbuild".
+         Touching "Debug\dupa4.lastbuildstate".
+     1>Done Building Project "E:\Moje programy\C++\Programowanie Obiektowe\dupa4\dupa4\dupa4.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.09

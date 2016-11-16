@@ -1,0 +1,7 @@
+﻿  Komiwojazer.cpp
+e:\dropbox\tsp\tsp\komiwojazer.cpp(329): warning C4018: '<': signed/unsigned mismatch
+e:\dropbox\tsp\tsp\komiwojazer.cpp(344): warning C4018: '<': signed/unsigned mismatch
+e:\dropbox\tsp\tsp\komiwojazer.cpp(396): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+e:\dropbox\tsp\tsp\komiwojazer.cpp(515): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+e:\dropbox\tsp\tsp\komiwojazer.cpp(521): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  TSP.vcxproj -> E:\Dropbox\TSP\x64\Debug\TSP.exe

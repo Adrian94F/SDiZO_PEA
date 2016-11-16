@@ -1,0 +1,12 @@
+﻿  plecak.cpp
+plecak.cpp(80): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+plecak.cpp(84): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+plecak.cpp(111): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+plecak.cpp(272): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+plecak.cpp(227): warning C4101: 'score': unreferenced local variable
+  Generating code
+  7 of 861 functions ( 0.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    4 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  PlecakDynamicznie.vcxproj -> D:\Dropbox\infa\Visual\PEAplecak\PlecakDynamicznie\x64\Release\PlecakDynamicznie.exe

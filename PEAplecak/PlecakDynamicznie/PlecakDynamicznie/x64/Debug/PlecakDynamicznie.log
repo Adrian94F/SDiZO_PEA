@@ -1,0 +1,7 @@
+﻿  plecak.cpp
+d:\dropbox\infa\visual\peaplecak\plecakdynamicznie\plecakdynamicznie\plecak.cpp(65): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\dropbox\infa\visual\peaplecak\plecakdynamicznie\plecakdynamicznie\plecak.cpp(81): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\dropbox\infa\visual\peaplecak\plecakdynamicznie\plecakdynamicznie\plecak.cpp(85): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\dropbox\infa\visual\peaplecak\plecakdynamicznie\plecakdynamicznie\plecak.cpp(286): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\dropbox\infa\visual\peaplecak\plecakdynamicznie\plecakdynamicznie\plecak.cpp(241): warning C4101: 'score': unreferenced local variable
+  PlecakDynamicznie.vcxproj -> D:\Dropbox\infa\Visual\PEAplecak\PlecakDynamicznie\x64\Debug\PlecakDynamicznie.exe

@@ -1,0 +1,21 @@
+﻿Build started 2014-01-14 15:01:22.
+     1>Project "E:\Moje programy\C++\SDIZO i PEA\SdizoProjekt\PEA p1\PEA p1\PEA p1.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\PEA p1.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+       Manifest:
+         All outputs are up-to-date.
+       FinalizeBuildStatus:
+         Deleting file "Debug\PEA p1.unsuccessfulbuild".
+         Touching "Debug\PEA p1.lastbuildstate".
+     1>Done Building Project "E:\Moje programy\C++\SDIZO i PEA\SdizoProjekt\PEA p1\PEA p1\PEA p1.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.06

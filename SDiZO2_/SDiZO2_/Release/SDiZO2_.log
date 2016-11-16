@@ -1,0 +1,72 @@
+﻿Build started 03.11.2015 12:15:02.
+     1>Project "D:\Dropbox\infa\Visual\SDiZO2_\SDiZO2_\SDiZO2_.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Release\\" /Fd"Release\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Dijkstra.cpp Krawedz.cpp wyswietl.cpp FordBellman.cpp kruskal.cpp GrafLista.cpp GrafMacierz.cpp menu.cpp MyTimer.cpp prim.cpp SDiZO2_.cpp stdafx.cpp test.cpp
+         Dijkstra.cpp
+     1>Dijkstra.cpp(21): warning C4018: '<': signed/unsigned mismatch
+         Krawedz.cpp
+         wyswietl.cpp
+     1>wyswietl.cpp(13): warning C4018: '<': signed/unsigned mismatch
+         FordBellman.cpp
+     1>FordBellman.cpp(16): warning C4018: '<': signed/unsigned mismatch
+         kruskal.cpp
+     1>kruskal.cpp(61): warning C4018: '<': signed/unsigned mismatch
+         GrafLista.cpp
+     1>GrafLista.cpp(68): warning C4018: '<': signed/unsigned mismatch
+     1>GrafLista.cpp(71): warning C4018: '<': signed/unsigned mismatch
+     1>GrafLista.cpp(83): warning C4101: 'temp': unreferenced local variable
+     1>GrafLista.cpp(134): warning C4018: '<': signed/unsigned mismatch
+     1>GrafLista.cpp(150): warning C4018: '<': signed/unsigned mismatch
+     1>GrafLista.cpp(152): warning C4018: '<': signed/unsigned mismatch
+     1>GrafLista.cpp(161): warning C4018: '<': signed/unsigned mismatch
+     1>GrafLista.cpp(171): warning C4018: '<': signed/unsigned mismatch
+         GrafMacierz.cpp
+     1>GrafMacierz.cpp(38): warning C4018: '<': signed/unsigned mismatch
+     1>GrafMacierz.cpp(42): warning C4018: '<': signed/unsigned mismatch
+     1>GrafMacierz.cpp(50): warning C4018: '<': signed/unsigned mismatch
+     1>GrafMacierz.cpp(53): warning C4018: '<': signed/unsigned mismatch
+     1>GrafMacierz.cpp(64): warning C4018: '<': signed/unsigned mismatch
+     1>GrafMacierz.cpp(65): warning C4018: '<': signed/unsigned mismatch
+     1>GrafMacierz.cpp(87): warning C4018: '<': signed/unsigned mismatch
+     1>GrafMacierz.cpp(98): warning C4018: '<': signed/unsigned mismatch
+     1>GrafMacierz.cpp(106): warning C4018: '<': signed/unsigned mismatch
+     1>GrafMacierz.cpp(107): warning C4018: '<': signed/unsigned mismatch
+         menu.cpp
+     1>menu.cpp(65): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+     1>menu.cpp(91): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+     1>menu.cpp(5): warning C4101: 'poczatek': unreferenced local variable
+         MyTimer.cpp
+     1>MyTimer.cpp(17): warning C4244: '=': conversion from 'LONGLONG' to 'long double', possible loss of data
+     1>MyTimer.cpp(18): warning C4244: '=': conversion from 'LONGLONG' to 'long double', possible loss of data
+         prim.cpp
+     1>prim.cpp(13): warning C4018: '<': signed/unsigned mismatch
+     1>prim.cpp(28): warning C4018: '<': signed/unsigned mismatch
+         SDiZO2_.cpp
+     1>SDiZO2_.cpp(6): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+         stdafx.cpp
+         test.cpp
+     1>test.cpp(142): warning C4804: '>': unsafe use of type 'bool' in operation
+     1>test.cpp(217): warning C4804: '>': unsafe use of type 'bool' in operation
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Dropbox\infa\Visual\SDiZO2_\Release\SDiZO2_.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"D:\Dropbox\infa\Visual\SDiZO2_\Release\SDiZO2_.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG:incremental /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Dropbox\infa\Visual\SDiZO2_\Release\SDiZO2_.lib" /MACHINE:X86 /SAFESEH Release\Dijkstra.obj
+         Release\Krawedz.obj
+         Release\wyswietl.obj
+         Release\FordBellman.obj
+         Release\kruskal.obj
+         Release\GrafLista.obj
+         Release\GrafMacierz.obj
+         Release\menu.obj
+         Release\MyTimer.obj
+         Release\prim.obj
+         Release\SDiZO2_.obj
+         Release\stdafx.obj
+         Release\test.obj
+         Generating code
+         All 865 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+         Finished generating code
+         SDiZO2_.vcxproj -> D:\Dropbox\infa\Visual\SDiZO2_\Release\SDiZO2_.exe
+     1>Done Building Project "D:\Dropbox\infa\Visual\SDiZO2_\SDiZO2_\SDiZO2_.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:18.20

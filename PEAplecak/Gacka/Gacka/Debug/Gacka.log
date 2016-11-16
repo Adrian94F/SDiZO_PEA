@@ -1,0 +1,12 @@
+﻿  stdafx.cpp
+  Project.cpp
+  PEA-L3.cpp
+d:\dropbox\infa\visual\peaplecak\gacka\gacka\pea-l3.cpp(8): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Node.cpp
+  MyHandle.cpp
+d:\dropbox\infa\visual\peaplecak\gacka\gacka\myhandle.cpp(578): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\dropbox\infa\visual\peaplecak\gacka\gacka\myhandle.cpp(582): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\dropbox\infa\visual\peaplecak\gacka\gacka\myhandle.cpp(640): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Knapsack.cpp
+  Generating Code...
+  Gacka.vcxproj -> D:\Dropbox\infa\Visual\PEAplecak\Gacka\Debug\Gacka.exe
